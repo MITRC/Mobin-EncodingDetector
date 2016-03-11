@@ -1,0 +1,6 @@
+#Mobin EncodingDetector
+
+Mobin EncodingDetector is a meta java tool for detecting *Charset Encoding* of HTML web pages.
+
+git remote add origin https://github.com/MITRC/Mobin-EncodingDetector.git
+git push -u origin master
